@@ -1,4 +1,4 @@
-# bootstrap-sticky-footer
+# Bootstrap Sticky Footer
 
 In some sites we want to keep the Header and Footer always visible and fixed to top and bottom of the screen respectively. In this article I will show how we can implement the sticky (or fixed) header and footer using only HTML and CSS.
 
